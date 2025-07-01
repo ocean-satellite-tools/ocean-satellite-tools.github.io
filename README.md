@@ -1,2 +1,3 @@
 # ocean-satellite-tools.github.io
-placeholder
+
+Placeholder. See individual pages.
